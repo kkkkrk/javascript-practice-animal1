@@ -1,4 +1,4 @@
-const API_URL = "https://animal-api-two.vercel.app";
+const API_URL = "https://animal-api-two.vercel.app/penguin";
 
 const $content = document.querySelector('div.content');
 const getData = async () => {
